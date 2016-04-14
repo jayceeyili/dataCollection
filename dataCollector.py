@@ -2,8 +2,8 @@ import xlrd
 import xlwt
 from os import listdir
 
-cal_path = "/Users/yili/Desktop/HW/calcheck/"
-bss_path = "/Users/yili/Desktop/HW/bss/"
+cal_path = "/Users/yili/Desktop/test/"
+bss_path = "/Users/yili/Desktop/test1/"
 
 sn_matrix = []
 matrix = []
